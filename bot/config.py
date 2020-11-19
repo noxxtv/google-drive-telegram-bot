@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1499376644:AAGz1M-Q2d61_4vAESeRDFS8lW03pSfOx84"
+    APP_ID = "2797378"
+    API_HASH = "23771e789019ed3759101ff8827729d1"
+    DATABASE_URL = "postgres://kwtmtmyaybfiao:5ac8b709234b541f1fef0e057b82cc03b0ab69402f699d5717c8dc4105acb437@ec2-52-206-15-227.compute-1.amazonaws.com:5432/dest6t9v7p39nm"
+    SUDO_USERS = "1194215701" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/noxxtvapp"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
